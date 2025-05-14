@@ -32,19 +32,13 @@ Pipeline terpisah untuk numerik dan kategorikal
 Model yang diuji:
 
 Logistic Regression
-
 Decision Tree Classifier
-
 K-Nearest Neighbors (KNN)
-
 XGBoost
-
 Random Forest Classifier (terpilih sebagai model terbaik)
-
 LGBM
 
 Model terbaik dipilih berdasarkan metrik:
-
 Recall untuk kelas 1 (pembatalan) karena lebih penting untuk meminimalkan kerugian
 
 Rencana Selanjutnya
